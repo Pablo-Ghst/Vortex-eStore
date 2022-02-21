@@ -1,0 +1,16 @@
+.erro-404-img{
+    display: block;
+    margin: 150px auto;
+    
+}
+.mensagem-erro{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+    margin: 150px auto;
+}
+.mensagem-erro a{
+    color: #383838;
+}
